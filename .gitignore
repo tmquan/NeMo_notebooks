@@ -1,3 +1,11 @@
+.env
+NeMo/
+NeMo-Megatron-Launcher/
+databricks-dolly-15k/
+gpt-2b-001-hf/
+llama2-7b-hf/
+results/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
